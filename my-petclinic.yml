@@ -1,0 +1,4 @@
+petclinic:
+	welcome:
+		page: welcome
+		message: Welcome to my All Pet Clinic
